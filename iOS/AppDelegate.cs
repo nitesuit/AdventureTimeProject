@@ -7,7 +7,6 @@ using UIKit;
 
 namespace AdventureTime.iOS
 {
-	/*
 	[Register ("AppDelegate")]
 	public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate
 	{
@@ -20,6 +19,5 @@ namespace AdventureTime.iOS
 			return base.FinishedLaunching (app, options);
 		}
 	}
-	*/
 }
 
